@@ -1,0 +1,1 @@
+run install.bat then builder.bat
